@@ -1,0 +1,3 @@
+﻿  BFSRichardson.cpp
+C:\Users\jonrr\Documents\Visual Studio 2022\CS418\P01BFRichardsonJ\BFSRichardson.cpp(113,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  P01BFRichardsonJ.vcxproj -> C:\Users\jonrr\Documents\Visual Studio 2022\CS418\P01BFRichardsonJ\x64\Debug\P01BFRichardsonJ.exe
