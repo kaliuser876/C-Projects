@@ -1,0 +1,256 @@
+Test 1:
+*** TSP using Simulated Annealing ***
+
+
+Starting Temerature: 100000
+
+
+Cooling Rate: .0003
+
+
+Please enter a file name (quit to end): cities.txt
+
+
+Cities:
+
+        Gulmira 60 200
+
+        Puente 180 200
+
+        Wheaton 80 180
+
+        Rose Hill 140 180
+
+        Zloda 20 160
+
+        Wrigley 100 160
+
+        Laura Creek 200 160
+
+        Novi Grad 140 140
+
+        Golden City 40 120
+
+        Custer's Grove 100 120
+
+        Westview 180 100
+
+        River's End 60 80
+
+
+Initaial solution distance: 1151
+Tour:
+Zloda -> Wrigley -> Rose Hill -> Puente -> Novi Grad -> River's End -> Wheaton -> Laura Creek -> Custer's Grove -> Gulmira -> Golden City -> Westview
+
+Number of states tested: 13315
+Number of states accepted: 13135
+
+Final solution distance: 709
+Tour:
+Wrigley -> Golden City -> Novi Grad -> Westview -> Laura Creek -> Puente -> Rose Hill -> Wheaton -> Gulmira -> Zloda -> River's End -> Custer's Grove
+
+Test 2:
+*** TSP using Simulated Annealing ***
+
+
+Starting Temerature: 50000
+
+
+Cooling Rate: .452
+
+
+Please enter a file name (quit to end): cities.txt
+
+
+Cities:
+
+        Gulmira 60 200
+
+        Puente 180 200
+
+        Wheaton 80 180
+
+        Rose Hill 140 180
+
+        Zloda 20 160
+
+        Wrigley 100 160
+
+        Laura Creek 200 160
+
+        Novi Grad 140 140
+
+        Golden City 40 120
+
+        Custer's Grove 100 120
+
+        Westview 180 100
+
+        River's End 60 80
+
+
+Initaial solution distance: 936
+Tour:
+Laura Creek -> River's End -> Golden City -> Rose Hill -> Puente -> Novi Grad -> Wrigley -> Gulmira -> Zloda -> Custer's Grove -> Wheaton -> Westview
+
+Number of states tested: 17
+Number of states accepted: 15
+
+Final solution distance: 901
+Tour:
+Golden City -> Novi Grad -> Puente -> Laura Creek -> Custer's Grove -> River's End -> Gulmira -> Wheaton -> Rose Hill -> Westview -> Wrigley -> Zloda
+
+Test 3:
+*** TSP using Simulated Annealing ***
+
+
+Starting Temerature: 7805321
+
+
+Cooling Rate: .025
+
+
+Please enter a file name (quit to end): cities.txt
+
+
+Cities:
+
+        Gulmira 60 200
+
+        Puente 180 200
+
+        Wheaton 80 180
+
+        Rose Hill 140 180
+
+        Zloda 20 160
+
+        Wrigley 100 160
+
+        Laura Creek 200 160
+
+        Novi Grad 140 140
+
+        Golden City 40 120
+
+        Custer's Grove 100 120
+
+        Westview 180 100
+
+        River's End 60 80
+
+
+Initaial solution distance: 1067
+Tour:
+Laura Creek -> Rose Hill -> Wrigley -> Novi Grad -> Westview -> Gulmira -> Wheaton -> Zloda -> Puente -> River's End -> Custer's Grove -> Golden City
+
+Number of states tested: 504
+Number of states accepted: 455
+
+Final solution distance: 782
+Tour:
+Wrigley -> Custer's Grove -> River's End -> Gulmira -> Zloda -> Golden City -> Novi Grad -> Rose Hill -> Westview -> Laura Creek -> Puente -> Wheaton
+
+Test 4:
+*** TSP using Simulated Annealing ***
+
+
+Starting Temerature: 100000
+
+
+Cooling Rate: .0003
+
+
+Please enter a file name (quit to end): cities.txt
+
+
+Cities:
+
+        Gulmira 60 200
+
+        Puente 180 200
+
+        Wheaton 80 180
+
+        Rose Hill 140 180
+
+        Zloda 20 160
+
+        Wrigley 100 160
+
+        Laura Creek 200 160
+
+        Novi Grad 140 140
+
+        Golden City 40 120
+
+        Custer's Grove 100 120
+
+        Westview 180 100
+
+        River's End 60 80
+
+
+Initaial solution distance: 919
+Tour:
+Rose Hill -> Puente -> River's End -> Wrigley -> Laura Creek -> Westview -> Novi Grad -> Custer's Grove -> Golden City -> Gulmira -> Wheaton -> Zloda
+
+Number of states tested: 13315
+Number of states accepted: 13146
+
+Final solution distance: 701
+Tour:
+Novi Grad -> Rose Hill -> Laura Creek -> Puente -> Wrigley -> Wheaton -> Gulmira -> Golden City -> Zloda -> River's End -> Custer's Grove -> Westview
+
+Test 5:
+*** TSP using Simulated Annealing ***
+
+
+Starting Temerature: 400
+
+
+Cooling Rate: .0000001
+
+
+Please enter a file name (quit to end): cities.txt
+
+
+Cities:
+
+        Gulmira 60 200
+
+        Puente 180 200
+
+        Wheaton 80 180
+
+        Rose Hill 140 180
+
+        Zloda 20 160
+
+        Wrigley 100 160
+
+        Laura Creek 200 160
+
+        Novi Grad 140 140
+
+        Golden City 40 120
+
+        Custer's Grove 100 120
+
+        Westview 180 100
+
+        River's End 60 80
+
+
+Initaial solution distance: 1185
+Tour:
+Zloda -> Puente -> River's End -> Custer's Grove -> Gulmira -> Westview -> Golden City -> Wrigley -> Laura Creek -> Rose Hill -> Novi Grad -> Wheaton
+
+Number of states tested: 399
+Number of states accepted: 289
+
+Final solution distance: 700
+Tour:
+Novi Grad -> Westview -> Laura Creek -> Rose Hill -> Puente -> Wheaton -> Gulmira -> Zloda -> River's End -> Golden City -> Wrigley -> Custer's Grove
+
+

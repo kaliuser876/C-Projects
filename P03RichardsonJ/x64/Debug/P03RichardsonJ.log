@@ -1,0 +1,21 @@
+﻿  SimulatedAnnealing.cpp
+C:\Users\jonrr\Documents\Visual Studio 2022\CS418\P03RichardsonJ\Tour.h(39,19): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'SimulatedAnnealing.cpp')
+  
+C:\Users\jonrr\Documents\Visual Studio 2022\CS418\P03RichardsonJ\Tour.h(70,17): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\Users\jonrr\Documents\Visual Studio 2022\CS418\P03RichardsonJ\Tour.h(70,17): warning C4244:         with
+C:\Users\jonrr\Documents\Visual Studio 2022\CS418\P03RichardsonJ\Tour.h(70,17): warning C4244:         [
+C:\Users\jonrr\Documents\Visual Studio 2022\CS418\P03RichardsonJ\Tour.h(70,17): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\jonrr\Documents\Visual Studio 2022\CS418\P03RichardsonJ\Tour.h(70,17): warning C4244:         ]
+  (compiling source file 'SimulatedAnnealing.cpp')
+  
+C:\Users\jonrr\Documents\Visual Studio 2022\CS418\P03RichardsonJ\Tour.h(99,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'SimulatedAnnealing.cpp')
+  
+C:\Users\jonrr\Documents\Visual Studio 2022\CS418\P03RichardsonJ\SimulatedAnnealing.cpp(28,16): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\Users\jonrr\Documents\Visual Studio 2022\CS418\P03RichardsonJ\SimulatedAnnealing.cpp(28,16): warning C4244:         with
+C:\Users\jonrr\Documents\Visual Studio 2022\CS418\P03RichardsonJ\SimulatedAnnealing.cpp(28,16): warning C4244:         [
+C:\Users\jonrr\Documents\Visual Studio 2022\CS418\P03RichardsonJ\SimulatedAnnealing.cpp(28,16): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\jonrr\Documents\Visual Studio 2022\CS418\P03RichardsonJ\SimulatedAnnealing.cpp(28,16): warning C4244:         ]
+C:\Users\jonrr\Documents\Visual Studio 2022\CS418\P03RichardsonJ\SimulatedAnnealing.cpp(129,13): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+  P03RichardsonJ.vcxproj -> C:\Users\jonrr\Documents\Visual Studio 2022\CS418\P03RichardsonJ\x64\Debug\P03RichardsonJ.exe
